@@ -24,4 +24,26 @@ so then we go ahead and add
 
  *insert photo*
 
- now we commit to github
+ now we commit
+
+## be careful
+
+now let's try pushing to git hub
+via git push
+we get an error
+
+ * insert photo *
+
+So to fix this we create a empty repo on git hub.
+
+then 
+->git remote add origin *insert repo*
+
+*insert photo here
+
+and it set up
+
+now we push via
+->git push origin master
+
+
